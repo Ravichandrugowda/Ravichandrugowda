@@ -1,7 +1,7 @@
 ## Hi  👋, I'm Ravi Chandru H C
 
 # 💫 About Me:
-🌱 I’m currently learning System Design and Agentic AI<br><br>👨‍💻 I’m currently studying MIT college<br><br>📑 Check out my resume here - https://drive.google.com/file/d/1JhjRsA-ubPZmmunhvA2dviw6BTUxm5ds/view?usp=drivesdk<br><br>💻 All of my projects are available on GitHub<br><br>📽️ I regularly upload videos on My Youtube Channel<br><br>💬 Ask me about Apps, Backend and Artificial Intelligence<br><br>📫 Reach out to me at ravichandru4803@gmail.com
+🌱 I’m currently learning System Design and Agentic AI<br><br>👨‍💻 I’m currently studying MIT college<br><br>📑 Check out my resume here - https://drive.google.com/file/d/1JhjRsA-ubPZmmunhvA2dviw6BTUxm5ds/view?usp=drivesdk<br><br>💻 All of my projects are available on GitHub<br><br>💬 Ask me about Apps, Backend and Artificial Intelligence<br><br>📫 Reach out to me at ravichandru4803@gmail.com
 
 
 ## 🌐 Socials:
